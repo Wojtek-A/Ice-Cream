@@ -1,22 +1,16 @@
 {
-  "name": "fantastic-6",
+  "name": "Ice-Cream",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://wojtek-a.github.io/fatastic-6/",
+  "homepage": "https://wojtek-a.github.io/Ice-Cream/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /fatastic-6/"
+    "build": "parcel build src/*.html --public-url /Ice-Cream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wojtek-A/fatastic-6/parcel-project-template.git"
-  },
-  "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Wojtek-A/fatastic-6/parcel-project-template/issues"
+    "url": "git+https://github.com/Wojtek-A/Ice-Cream/parcel-project-template.git"
   },
   "devDependencies": {
     "@svgr/cli": "^6.3.1",
